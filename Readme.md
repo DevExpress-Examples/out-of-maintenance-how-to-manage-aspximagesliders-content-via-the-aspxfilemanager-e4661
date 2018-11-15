@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DevExpress.ImageManagement/Default.aspx) (VB: [Default.aspx.vb](./VB/DevExpress.ImageManagement/Default.aspx.vb))
+* [Default.aspx.cs](./CS/DevExpress.ImageManagement/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DevExpress.ImageManagement/Default.aspx.vb))
+<!-- default file list end -->
 # How to manage ASPxImageSlider's content via the ASPxFileManager
 
 
