@@ -28,7 +28,7 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnBrowse;
+        protected global::DevExpress.Web.ASPxButton btnBrowse;
         
         /// <summary>
         /// callbackPanel control.
@@ -37,7 +37,7 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel callbackPanel;
+        protected global::DevExpress.Web.ASPxCallbackPanel callbackPanel;
         
         /// <summary>
         /// imageSlider control.
@@ -46,7 +46,7 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxImageSlider.ASPxImageSlider imageSlider;
+        protected global::DevExpress.Web.ASPxImageSlider imageSlider;
         
         /// <summary>
         /// popup control.
@@ -55,7 +55,7 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl popup;
+        protected global::DevExpress.Web.ASPxPopupControl popup;
         
         /// <summary>
         /// PopupControlContentControl1 control.
@@ -64,7 +64,7 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.PopupControlContentControl PopupControlContentControl1;
+        protected global::DevExpress.Web.PopupControlContentControl PopupControlContentControl1;
         
         /// <summary>
         /// filemanager control.
@@ -73,6 +73,6 @@ namespace DevExpress.ImageManagement {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxFileManager.ASPxFileManager filemanager;
+        protected global::DevExpress.Web.ASPxFileManager filemanager;
     }
 }

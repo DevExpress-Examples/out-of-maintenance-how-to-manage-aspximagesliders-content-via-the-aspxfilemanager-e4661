@@ -31,7 +31,7 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnBrowse As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnBrowse As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' callbackPanel control.
@@ -40,7 +40,7 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected callbackPanel As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+		Protected callbackPanel As Global.DevExpress.Web.ASPxCallbackPanel
 
 		''' <summary>
 		''' imageSlider control.
@@ -49,7 +49,7 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected imageSlider As Global.DevExpress.Web.ASPxImageSlider.ASPxImageSlider
+		Protected imageSlider As Global.DevExpress.Web.ASPxImageSlider
 
 		''' <summary>
 		''' popup control.
@@ -58,7 +58,7 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected popup As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected popup As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' PopupControlContentControl1 control.
@@ -67,7 +67,7 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected PopupControlContentControl1 As Global.DevExpress.Web.ASPxPopupControl.PopupControlContentControl
+		Protected PopupControlContentControl1 As Global.DevExpress.Web.PopupControlContentControl
 
 		''' <summary>
 		''' filemanager control.
@@ -76,6 +76,6 @@ Namespace DevExpress.ImageManagement
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected filemanager As Global.DevExpress.Web.ASPxFileManager.ASPxFileManager
+		Protected filemanager As Global.DevExpress.Web.ASPxFileManager
 	End Class
 End Namespace
